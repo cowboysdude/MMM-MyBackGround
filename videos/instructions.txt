@@ -1,0 +1,4 @@
+You must download youtube videos and the ending MUST be .mp4
+Put them in your videos directory and add them to your config.js file
+
+See example config
